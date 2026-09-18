@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Career compass logo">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1fb4e8" />
+      <stop offset="100%" stop-color="#118dc9" />
+    </linearGradient>
+  </defs>
+  <circle cx="128" cy="128" r="128" fill="url(#bg)" />
+  <path fill="#0c7fb7" d="M256 128v128H84l-39-39 22-58-24-15 85-58 108 37z" opacity=".28" />
+  <path
+    fill="#fff"
+    d="M33 104c0-4 2-8 7-10l82-30c4-2 9-2 13 0l88 32c9 3 9 15 0 18l-88 32c-4 1-9 1-13 0L40 114c-5-2-7-6-7-10zm36 17 17 6c-11 9-17 21-17 37v19c0 9 6 17 17 22 11 5 26 7 42 7s31-2 42-7c11-5 17-13 17-22v-19c0-16-6-28-17-37l17-6v19c7 4 12 12 12 20 0 8-5 15-12 19v29c0 4-3 8-8 8h-8c-4 0-8-4-8-8v-29c-7-4-12-11-12-19 0-8 5-16 12-20v-26l-39 14c-4 2-9 2-13 0l-43-16v18c0 4-3 8-8 8s-8-4-8-8v-24z"
+  />
+</svg>
